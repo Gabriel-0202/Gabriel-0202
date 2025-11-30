@@ -2,7 +2,7 @@
 
 - Estudo programação;
 - Busco me aperfeiçoar;
-- Essa é uma conta para organar meus projetos e para portfólio.
+- Essa é uma conta para organizar meus projetos e para portfólio.
 
 <!--
 **Gabriel-0202/Gabriel-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
